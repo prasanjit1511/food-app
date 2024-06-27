@@ -1,0 +1,6 @@
+.parentContainer{
+    display: flex;
+    /* flex-direction: row-reverse; /* Reverse the order of flex items */
+    /* justify-content: flex-end; */ 
+
+}
